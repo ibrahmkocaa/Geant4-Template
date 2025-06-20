@@ -1,0 +1,17 @@
+{
+    "configurations": [
+        {
+            "name": "Mac",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "/Users/ibo/Software/geant4/geant4-install/include/Geant4"
+            ],
+            "defines": [],
+            "compilerPath": "/opt/homebrew/opt/llvm/bin/clang",
+            "cStandard": "c17",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "macos-clang-arm64"
+        }
+    ],
+    "version": 4
+}
